@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1883D1D-22E5-497D-9D00-29FDD25CCB3B}|Task\\Task.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab4\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1883D1D-22E5-497D-9D00-29FDD25CCB3B}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC1757-8703-4914-B111-9A112BA86BB9}|Task.Tests\\Task.Tests.csproj|d:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u043E\u043E\u043F\\lab4\\task.tests\\taskunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC1757-8703-4914-B111-9A112BA86BB9}|Task.Tests\\Task.Tests.csproj|solutionrelative:task.tests\\taskunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab4\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab4\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwNUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:50:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskUnitTests.cs",
+              "DocumentMoniker": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab4\\Task.Tests\\TaskUnitTests.cs",
+              "RelativeDocumentMoniker": "Task.Tests\\TaskUnitTests.cs",
+              "ToolTip": "D:\\cloud\\code\\uni\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\\\u041E\u041E\u041F\\Lab4\\Task.Tests\\TaskUnitTests.cs",
+              "RelativeToolTip": "Task.Tests\\TaskUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:00:06.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
